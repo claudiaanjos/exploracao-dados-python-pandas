@@ -14,16 +14,26 @@ Desafio #7DaysOfCode da Alura! São 7 dias e 7 desafios.
 
 **Iremos explorar os dados de empréstimos dos acervos do sistema de bibliotecas da UFRN.**
 
-Um dos objetivos de uma biblioteca é garantir que os materiais informacionais estejam sendo utilizados. Os empréstimos realizados podem ser um indicador, mesmo que de forma básica (pois você não consegue garantir que haja uma leitura ou utilização real).
+Vamos treinar habilidades de manipulação, visualização e análise de dados utilizando Python Pandas.
 
-Por este motivo, entender a quantidade de empréstimos se torna importante.
+A análise exploratória de dados (AED) é uma forma de extrair informações de dados através da observação de tabelas, medidas e visualizações. Além de informações, também é possível extrair muitas hipóteses e novos questionamentos.
+
+Analisar dados é também fazer perguntas: para os próprios dados e para todo o ambiente que ele foi gerado (a parte do negócios envolvida no contexto). Treinar essa habilidade é muito importante para a atividade.
+
+Vamos passar por diversas funcionalidades que o Pandas pode oferecer, desde a importação de diversos formatos de dados, agregações, divisões e transformações de tabelas, e até a exportação de tabelas estilizadas com sua análise pronta para ser inserida em alguma aplicação.
+
+Mas porque uma biblioteca analisaria dados?
+
+Bom, um dos objetivos de um sistema de bibliotecas universitárias é garantir o uso da informação para que seja produzido mais conhecimento. Para isso ocorrer, é necessário analisar e entender o cenário através dos processos, usuários e recursos existentes para tomar decisões assertivas.
+
 
 #
 
-### Extras
+### Desafios
 
-- [Documentação do Pandas](https://pandas.pydata.org/docs/user_guide/io.html) das diferentes formas de entrada de dados;
-- Formato de [arquivo Parquet](https://www.alura.com.br/artigos/arquivos-parquet);
-- Artigo de ["Como jogar dados fora com Pandas?"](https://franciscofoz.medium.com/como-jogar-dados-fora-com-pandas-23a5be871aac).
+Dia 1 - Importação de dados
+
+
+
 
 
