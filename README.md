@@ -33,6 +33,9 @@ Bom, um dos objetivos de um sistema de bibliotecas universitárias é garantir o
 
 Dia 1 - Importação de dados
 
+Dia 2 - Primeiras manipulações
+
+Dia 3 - Explorando o Datetime dos dados
 
 
 
