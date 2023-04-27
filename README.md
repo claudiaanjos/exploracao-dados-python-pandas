@@ -37,6 +37,6 @@ Dia 2 - Primeiras manipulações
 
 Dia 3 - Explorando o Datetime dos dados
 
-
+Dia 4 - Explorando os dados
 
 
