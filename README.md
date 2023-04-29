@@ -39,4 +39,10 @@ Dia 3 - Explorando o Datetime dos dados
 
 Dia 4 - Explorando os dados
 
+Dia 5 - Analisando empréstimos com boxplot
+
+Dia 6 - Novos dados, novas análises
+
+Dia 7 - Apresentando resultados em HTML
+
 
