@@ -9,7 +9,7 @@ Sim, foi ele quem promoveu a análise exploratória de dados.
 
 O gráfico possui uma estrutura formada por uma caixa retangular, uma linha cortando essa caixa e as hastes (ou bigodes) ligadas a caixa.
 
-(image)
+<p align="center"> <img src="https://github.com/claudiaanjos/exploracao-dados-python-pandas/blob/main/Dia-5/image.png" /> </p>
 
 Os quartis são representados pelos limites da caixa, do quartil inferior (Q1) ao quartil superior (Q3). A mediana (é o Q2) é representada pela linha. Os valores mínimos e máximos são as extremidades das hastes e os outliers são todos os pontos além destes limites.
 
