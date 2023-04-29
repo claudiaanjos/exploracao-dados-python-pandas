@@ -1,5 +1,5 @@
 <h2 align="left">
-  👩🏻‍💻 Explorando os dados
+  👩🏻‍💻 Analisando empréstimos com boxplot
 </h2>
 
 Hoje vamos bater um papo sobre Boxplot. O Boxplot é uma das visualizações mais poderosas que existe, pois ele permite que você visualize medidas estatísticas como a mediana, os quartis, os valores mínimos e máximos e os valores atípicos outliers.¹
